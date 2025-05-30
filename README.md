@@ -30,7 +30,7 @@ Atualmente estou buscando minha primeira oportunidade como **estagiário ou dese
 
 ### 📂 Repositórios em destaque
 
-- [📚 backend-studies]()  
+- [📚 backend-studies](https://github.com/ewtfiwl/backend-studies)  
   Repositório com meus estudos em lógica, Python, SQL e mais.
 
 - [🚧 Em breve: meu primeiro CRUD com Flask!]  
