@@ -30,7 +30,7 @@ Atualmente estou buscando minha primeira oportunidade como **estagiário ou dese
 
 ### 📂 Repositórios em destaque
 
-- [📚 backend-studies](https://github.com/ewtfiwl/backend-studies)  
+- [📚 backend-studies]()  
   Repositório com meus estudos em lógica, Python, SQL e mais.
 
 - [🚧 Em breve: meu primeiro CRUD com Flask!]  
@@ -40,7 +40,7 @@ Atualmente estou buscando minha primeira oportunidade como **estagiário ou dese
 
 ### 🌐 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/enzolemos) *(ou o link certo do seu perfil)*
+- [LinkedIn](https://www.linkedin.com/in/enzo-lemos-599530270/)
 - [GitHub](https://github.com/ewtfiwl)
 
 📫 Me mande uma mensagem por aqui ou no LinkedIn! Sempre aberto pra trocar ideia, aprender ou colaborar.
