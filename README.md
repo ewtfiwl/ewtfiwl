@@ -18,6 +18,8 @@ Atualmente estou buscando minha primeira oportunidade como **estagiário ou dese
 
 ### 🔧 Tecnologias que estou estudando
 
+- HTML 
+- CSS
 - Python
 - C
 - SQL (MySQL e PostgreSQL)
