@@ -2,17 +2,18 @@
 
 🎓 Último semestre de ADS  
 💻 Estudando e criando projetos em HTML, CSS, JavaScript, Python e SQL  
-🔍 Buscando oportunidade como estagiário ou dev junior  
-📍 São Paulo - SP
- 
+🔍 Buscando oportunidade como estagiário ou dev júnior  
+📍 São Paulo - SP  
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou curioso, comunicativo, gosto de resolver problemas e lidar com pessoas e tenho muita vontade de aprender. 
-Estou em fase de transição para a área de tecnologia: estudando bastante, quebrando a cabeça, errando, ajustando e evoluindo um pouco todos os dias. 
+Sou curioso, comunicativo e gosto de resolver problemas e lidar com pessoas.  
+Tenho muita vontade de aprender e evoluir. Estou em fase de transição para a área de tecnologia: estudando bastante, quebrando a cabeça, errando, ajustando e evoluindo um pouco todos os dias.
+
 Quero entrar no mercado como estagiário ou júnior, aprender com uma equipe e crescer de forma sólida.
+
 ---
 
 ### 🔧 Tecnologias que estou estudando
@@ -32,8 +33,8 @@ Sou bem curioso, então sempre tem algo novo entrando na lista.
 
 ### 📂 Repositórios em destaque
 
-- [📚html-css-js-notes](https://github.com/ewtfiwl/html-css-js-notes)  
-  Repositório com meus estudos e anotações sobre html e css.
+- [📚 html-css-js-notes](https://github.com/ewtfiwl/html-css-js-notes)  
+  Repositório com minhas anotações e estudos de HTML, CSS e JavaScript.
 
 ---
 
@@ -43,4 +44,3 @@ Sou bem curioso, então sempre tem algo novo entrando na lista.
 - [GitHub](https://github.com/ewtfiwl)
 
 📫 Me mande uma mensagem por aqui ou no LinkedIn! Sempre aberto pra trocar ideia, aprender ou colaborar.
-
