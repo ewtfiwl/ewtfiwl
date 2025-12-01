@@ -2,7 +2,7 @@
 
 🎓 Último semestre de ADS  
 💻 Estudando e criando projetos em HTML, CSS, JavaScript, Python e SQL  
-🔍 Buscando oportunidade como estagiario ou dev junior  
+🔍 Buscando oportunidade como estagiário ou dev junior  
 📍 São Paulo - SP
  
 
