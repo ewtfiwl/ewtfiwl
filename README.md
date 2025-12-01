@@ -31,8 +31,8 @@ Sou bem curioso, então sempre tem algo novo entrando na lista.
 
 ### 📂 Repositórios em destaque
 
-- [📚 backend-studies](https://github.com/ewtfiwl/backend-studies)  
-  Repositório com meus estudos em lógica, Python, SQL e mais.
+- [📚html-css-js-notes](https://github.com/ewtfiwl/html-css-js-notes)  
+  Repositório com meus estudos e anotações sobre html e css.
 
 ---
 
