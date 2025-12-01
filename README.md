@@ -1,32 +1,31 @@
 # 👋 Olá! Eu sou o Enzo Lemos
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIP  
-💻 Focado em Back-End com Python, C e SQL  
-🗣️ Inglês fluente | Sempre aprendendo algo novo  
+🎓 Último semestre de ADS
+💻 Estudando e criando projetos em HTML, CSS, JavaScript, Python e SQL 
+🔍 Buscando oportunidade como estágiario ou dev junior
 📍 São Paulo - SP
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou apaixonado por resolver problemas através da programação.  
-Comecei minha jornada profissional com atendimento ao cliente, onde desenvolvi habilidades de comunicação, organização e resolução de conflitos — tudo isso agora aplicando na área de tecnologia.
-
-Atualmente estou buscando minha primeira oportunidade como **estagiário ou desenvolvedor júnior** Back-End, onde eu possa aprender com profissionais da área e contribuir com dedicação e vontade de evoluir.
-
+Sou curioso, comunicativo, gosto de resolver problemas e lidar com pessoas e tenho muita vontade de aprender. 
+Estou em fase de transição para a área de tecnologia: estudando bastante, quebrando a cabeça, errando, ajustando e evoluindo um pouco todos os dias. 
+Quero entrar no mercado como estagiário ou júnior, aprender com uma equipe e crescer de forma sólida.
 ---
 
 ### 🔧 Tecnologias que estou estudando
 
-- HTML 
-- CSS
+- HTML & CSS (curso Origamid — iniciantes)
+- JavaScript
 - Python
-- C
 - SQL (MySQL e PostgreSQL)
 - Git e GitHub
-- Lógica de programação
-- Estrutura de dados
+- Estruturas de dados
 - POO
+- Lógica de programação
+
+Sou bem curioso, então sempre tem algo novo entrando na lista.
 
 ---
 
@@ -34,9 +33,6 @@ Atualmente estou buscando minha primeira oportunidade como **estagiário ou dese
 
 - [📚 backend-studies](https://github.com/ewtfiwl/backend-studies)  
   Repositório com meus estudos em lógica, Python, SQL e mais.
-
-- [🚧 Em breve: meu primeiro CRUD com Flask!]  
-  Fique de olho que vou subir um projetinho real nos próximos dias 👀
 
 ---
 
