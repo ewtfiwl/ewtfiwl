@@ -1,9 +1,9 @@
 # 👋 Olá! Eu sou o Enzo Lemos
 
-🎓 Último semestre de ADS
-💻 Estudando e criando projetos em HTML, CSS, JavaScript, Python e SQL 
-🔍 Buscando oportunidade como estágiario ou dev junior
-📍 São Paulo - SP
+🎓 - Último semestre de ADS
+💻 - Estudando e criando projetos em HTML, CSS, JavaScript, Python e SQL 
+🔍 - Buscando oportunidade como estágiario ou dev junior
+📍 - São Paulo - SP
 
 ---
 
