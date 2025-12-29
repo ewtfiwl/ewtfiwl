@@ -35,6 +35,9 @@ Sou bem curioso, então sempre tem algo novo entrando na lista.
 
 - [📚 html-css-js-notes](https://github.com/ewtfiwl/html-css-js-notes)  
   Repositório com minhas anotações e estudos de HTML, CSS e JavaScript.
+  - [🌐 meu-site](https://ewtfiwl.github.io/meu-site/)  
+  Meu site pessoal desenvolvido com HTML e CSS, focado em estrutura semântica, layout responsivo e apresentação profissional dos meus projetos como desenvolvedor Front-End Júnior.
+
 
 ---
 
