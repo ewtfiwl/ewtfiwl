@@ -43,7 +43,7 @@ Sou bem curioso, então sempre tem algo novo entrando na lista.
 
 ### 🌐 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/enzo-lemos-599530270/)
+- [LinkedIn](https://www.linkedin.com/in/enzo-lemos/)
 - [GitHub](https://github.com/ewtfiwl)
 
 📫 Me mande uma mensagem por aqui ou no LinkedIn! Sempre aberto pra trocar ideia, aprender ou colaborar.
