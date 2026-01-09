@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Enzo Lemos
 
-🎓 Último semestre de Análise e Desenvolvimento de Sistemas (UNIP) | 💻 Foco em Back-End  
+🎓 Último semestre de Análise e Desenvolvimento de Sistemas (UNIP) | 💻 Foco em Front-End  
 📍 São Paulo - SP | 🔍 Buscando oportunidade como **Estagiário ou Desenvolvedor Júnior**
 
 ---
@@ -19,8 +19,6 @@ Estou em fase de transição para a área de tecnologia: estudando, errando, aju
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -31,7 +29,7 @@ Estou em fase de transição para a área de tecnologia: estudando, errando, aju
 
 <p align="center">
   <a href="https://github.com/ewtfiwl/meu-site/">
-    <img src="img/Print-meu-site.png" width="280" style="border-radius:10px;" />
+    <img src="img/Print-meu-site.png" width="280" style="border-radius:10px; transition: all 0.3s; hover:transform:scale(1.05);" />
   </a>
 </p>
 <p align="center">
@@ -40,7 +38,7 @@ Estou em fase de transição para a área de tecnologia: estudando, errando, aju
 
 <p align="center">
   <a href="https://github.com/ewtfiwl/html-css-js-notes">
-    <img src="img/Print-html-css-js-notes.png" width="280" style="border-radius:10px;" />
+    <img src="img/Print-html-css-js-notes.png" width="280" style="border-radius:10px; transition: all 0.3s; hover:transform:scale(1.05);" />
   </a>
 </p>
 <p align="center">
@@ -49,7 +47,7 @@ Estou em fase de transição para a área de tecnologia: estudando, errando, aju
 
 <p align="center">
   <a href="#">
-    <img src="img/Position2.png" width="280" style="border-radius:10px;" />
+    <img src="img/Position2.png" width="280" style="border-radius:10px; transition: all 0.3s; hover:transform:scale(1.05);" />
   </a>
 </p>
 <p align="center">
@@ -61,17 +59,17 @@ Estou em fase de transição para a área de tecnologia: estudando, errando, aju
 ### 💡 Skills em prática
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-90%25-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-50%25-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-40%25-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HTML-95%25-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-85%25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-75%25-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flexbox-80%25-lightblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grid-70%25-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsividade-80%25-orange?style=for-the-badge" />
 </p>
 
 - **Front-End:** HTML, CSS, JavaScript, Flexbox, Grid, Responsividade
-- **Back-End & DB:** Python, SQL (MySQL/PostgreSQL)
 - **Controle de versão:** Git & GitHub
-- **Conceitos:** Lógica de programação, POO, estruturas de dados
+- **Conceitos:** Lógica de programação, boas práticas, organização de código
 
 ---
 
@@ -84,8 +82,10 @@ Estou em fase de transição para a área de tecnologia: estudando, errando, aju
   <a href="https://github.com/ewtfiwl">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="mailto:enzo.lemos05@gmail.com">
+    <img src="img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <br>
-  📫 <strong>Email:</strong> enzo.lemos05@gmail.com
 </p>
 
 ---
