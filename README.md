@@ -27,36 +27,15 @@ Estou em fase de transição para a área de tecnologia: estudando, errando, aju
 
 ---
 
-### 📂 Projetos em destaque
+### 📂 Projetos em Destaque
 
-<p align="center">
-  <a href="https://github.com/ewtfiwl/meu-site/">
-    <img src="img/Print-meu-site.png" width="600" style="border-radius:10px;" />
-  </a>
-</p>
-<p align="center">
-  <strong>🌐 Meu Site</strong> — Site pessoal responsivo com HTML/CSS, layout moderno e animações suaves
-</p>
+| Projeto                                                              | Preview                                                                               | Descrição                                                               |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 🌐 [Meu Site](https://github.com/ewtfiwl/meu-site/)                  | <img src="img/Print-meu-site.png" width="250" style="border-radius:10px;" />          | Site pessoal responsivo com HTML/CSS, layout moderno e animações suaves |
+| 📚 [HTML/CSS/JS Notes](https://github.com/ewtfiwl/html-css-js-notes) | <img src="img/Print-html-css-js-notes.png" width="250" style="border-radius:10px;" /> | Anotações completas de Front-End, exercícios e mini projetos            |
+| 🎨 [Projetos Visuais](#)                                             | <img src="img/Position2.png" width="250" style="border-radius:10px;" />               | Experimentos com cores, layouts e responsividade                        |
 
-<p align="center">
-  <a href="https://github.com/ewtfiwl/html-css-js-notes">
-    <img src="img/Print-html-css-js-notes.png" width="600" style="border-radius:10px;" />
-  </a>
-</p>
-<p align="center">
-  <strong>📚 HTML/CSS/JS Notes</strong> — Anotações completas de Front-End, exercícios e mini projetos
-</p>
-
-<p align="center">
-  <a href="#">
-    <img src="img/Position2.png" width="600" style="border-radius:10px;" />
-  </a>
-</p>
-<p align="center">
-  <strong>🎨 Projetos Visuais</strong> — Experimentos com cores, layouts e responsividade
-</p>
-
-> Todos os projetos incluem documentação detalhada, exemplos práticos e estudos de boas práticas.
+> Clique nas imagens ou nos nomes para acessar os repositórios.
 
 ---
 
@@ -67,7 +46,7 @@ Estou em fase de transição para a área de tecnologia: estudando, errando, aju
 - **Controle de versão:** Git & GitHub
 - **Conceitos:** Lógica de programação, POO, estruturas de dados
 
-#### 🚀 Níveis de habilidade (Progress Bar 💥)
+#### 🚀 Níveis de habilidade
 
 **HTML**: ▓▓▓▓▓▓▓▓▓ 90%  
 **CSS**: ▓▓▓▓▓▓▓▓ 80%  
