@@ -1,49 +1,68 @@
 # 👋 Olá! Eu sou o Enzo Lemos
 
-🎓 Último semestre de ADS  
-💻 Estudando e criando projetos em HTML, CSS, JavaScript, Python e SQL  
-🔍 Buscando oportunidade como estagiário ou dev júnior  
-📍 São Paulo - SP  
+🎓 Último semestre de ADS | 💻 Front-End & Full-Stack em evolução  
+📍 São Paulo - SP | 🔍 Buscando oportunidade como **Estagiário ou Desenvolvedor Júnior**
 
 ---
 
-### 🚀 Sobre mim
+### 🌟 Sobre mim
 
-Sou curioso, comunicativo e gosto de resolver problemas e lidar com pessoas.  
-Tenho muita vontade de aprender e evoluir. Estou em fase de transição para a área de tecnologia: estudando bastante, quebrando a cabeça, errando, ajustando e evoluindo um pouco todos os dias.
+Sou curioso, comunicativo e adoro **resolver problemas e criar soluções visuais**.  
+Estou em fase de transição para a área de tecnologia: estudando, errando, ajustando e evoluindo todo dia.
 
-Quero entrar no mercado como estagiário ou júnior, aprender com uma equipe e crescer de forma sólida.
-
----
-
-### 🔧 Tecnologias que estou estudando
-
-- HTML & CSS (curso Origamid — iniciantes)
-- JavaScript
-- Python
-- SQL (MySQL e PostgreSQL)
-- Git e GitHub
-- Estruturas de dados
-- POO
-- Lógica de programação
-
-Sou bem curioso, então sempre tem algo novo entrando na lista.
+> “Aprender fazendo” é meu lema: cada projeto é uma chance de evoluir e mostrar resultado.
 
 ---
 
-### 📂 Repositórios em destaque
+### 🔥 Tecnologias & Ferramentas
 
-- [📚 html-css-js-notes](https://github.com/ewtfiwl/html-css-js-notes)  
-  Repositório com minhas anotações e estudos de HTML, CSS e JavaScript.
-- [🌐 meu-site](https://github.com/ewtfiwl/meu-site/)  
-  Meu site pessoal desenvolvido com HTML e CSS, focado em estrutura semântica, layout responsivo e apresentação profissional dos meus projetos como desenvolvedor Front-End Júnior.
-
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🌐 Onde me encontrar
+### 📂 Projetos em destaque
 
-- [LinkedIn](https://www.linkedin.com/in/enzo-lemos/)
-- [GitHub](https://github.com/ewtfiwl)
+| Projeto                                                              | Descrição                                                               | Demo                                                                |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 🌐 [Meu Site](https://github.com/ewtfiwl/meu-site/)                  | Site pessoal responsivo com HTML/CSS, layout moderno e animações suaves | ![Demo](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif) |
+| 📚 [HTML/CSS/JS Notes](https://github.com/ewtfiwl/html-css-js-notes) | Anotações completas de Front-End, exercícios e mini projetos            | ![Demo](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  |
+| 🎨 [Projetos Visuais](#)                                             | Experimentos com cores, layouts e responsividade                        | ![Demo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) |
 
-📫 Me mande uma mensagem por aqui ou no LinkedIn! Sempre aberto pra trocar ideia, aprender ou colaborar.
+> Todos os projetos incluem documentação detalhada, exemplos práticos e estudos de boas práticas.
+
+---
+
+### 💡 Skills em prática
+
+- **Front-End:** HTML, CSS, JavaScript, Flexbox, Grid, Responsividade
+- **Back-End & DB:** Python, SQL (MySQL/PostgreSQL)
+- **Controle de versão:** Git & GitHub
+- **Conceitos:** Lógica de programação, POO, estruturas de dados
+
+#### 🚀 Níveis de habilidade (Progress Bar 💥)
+
+**HTML**: ▓▓▓▓▓▓▓▓▓ 90%  
+**CSS**: ▓▓▓▓▓▓▓▓ 80%  
+**JavaScript**: ▓▓▓▓▓▓▓ 70%  
+**Python**: ▓▓▓▓▓ 50%  
+**SQL**: ▓▓▓▓ 40%
+
+---
+
+### 🌐 Contato & Networking
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-lemos/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ewtfiwl)  
+📫 **Email:** enzo.lemos05@gmail.com
+
+---
+
+💬 Sempre aberto para **trocar ideias, colaborar em projetos e aprender**.  
+Vamos construir coisas incríveis juntos! 🚀
