@@ -29,11 +29,32 @@ Estou em fase de transição para a área de tecnologia: estudando, errando, aju
 
 ### 📂 Projetos em destaque
 
-| Projeto                                                              | Descrição                                                               | Demo                                               |
-| -------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------- |
-| 🌐 [Meu Site](https://github.com/ewtfiwl/meu-site/)                  | Site pessoal responsivo com HTML/CSS, layout moderno e animações suaves | ![Demo](/img/Print-meu-site.pngPrint-meu-site.png) |
-| 📚 [HTML/CSS/JS Notes](https://github.com/ewtfiwl/html-css-js-notes) | Anotações completas de Front-End, exercícios e mini projetos            | ![Demo](/img/Print-html-css-js-notes.png)          |
-| 🎨 [Projetos Visuais](#)                                             | Experimentos com cores, layouts e responsividade                        | ![Demo](/img/Position2.png)                        |
+<p align="center">
+  <a href="https://github.com/ewtfiwl/meu-site/">
+    <img src="img/Print-meu-site.png" width="600" style="border-radius:10px;" />
+  </a>
+</p>
+<p align="center">
+  <strong>🌐 Meu Site</strong> — Site pessoal responsivo com HTML/CSS, layout moderno e animações suaves
+</p>
+
+<p align="center">
+  <a href="https://github.com/ewtfiwl/html-css-js-notes">
+    <img src="img/Print-html-css-js-notes.png" width="600" style="border-radius:10px;" />
+  </a>
+</p>
+<p align="center">
+  <strong>📚 HTML/CSS/JS Notes</strong> — Anotações completas de Front-End, exercícios e mini projetos
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="img/Position2.png" width="600" style="border-radius:10px;" />
+  </a>
+</p>
+<p align="center">
+  <strong>🎨 Projetos Visuais</strong> — Experimentos com cores, layouts e responsividade
+</p>
 
 > Todos os projetos incluem documentação detalhada, exemplos práticos e estudos de boas práticas.
 
