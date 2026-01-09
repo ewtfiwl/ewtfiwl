@@ -29,11 +29,11 @@ Estou em fase de transição para a área de tecnologia: estudando, errando, aju
 
 ### 📂 Projetos em destaque
 
-| Projeto                                                              | Descrição                                                               | Demo                                                                |
-| -------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 🌐 [Meu Site](https://github.com/ewtfiwl/meu-site/)                  | Site pessoal responsivo com HTML/CSS, layout moderno e animações suaves | ![Demo](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif) |
-| 📚 [HTML/CSS/JS Notes](https://github.com/ewtfiwl/html-css-js-notes) | Anotações completas de Front-End, exercícios e mini projetos            | ![Demo](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  |
-| 🎨 [Projetos Visuais](#)                                             | Experimentos com cores, layouts e responsividade                        | ![Demo](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) |
+| Projeto                                                              | Descrição                                                               | Demo                                               |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------- |
+| 🌐 [Meu Site](https://github.com/ewtfiwl/meu-site/)                  | Site pessoal responsivo com HTML/CSS, layout moderno e animações suaves | ![Demo](/img/Print-meu-site.pngPrint-meu-site.png) |
+| 📚 [HTML/CSS/JS Notes](https://github.com/ewtfiwl/html-css-js-notes) | Anotações completas de Front-End, exercícios e mini projetos            | ![Demo](/img/Print-html-css-js-notes.png)          |
+| 🎨 [Projetos Visuais](#)                                             | Experimentos com cores, layouts e responsividade                        | ![Demo](/img/Position2.png)                        |
 
 > Todos os projetos incluem documentação detalhada, exemplos práticos e estudos de boas práticas.
 
@@ -66,3 +66,5 @@ Estou em fase de transição para a área de tecnologia: estudando, errando, aju
 
 💬 Sempre aberto para **trocar ideias, colaborar em projetos e aprender**.  
 Vamos construir coisas incríveis juntos! 🚀
+
+---
