@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Enzo Lemos
 
-🎓 Último semestre de ADS | 💻 Front-End & Full-Stack em evolução  
+🎓 Último semestre de Análise e Desenvolvimento de Sistemas (UNIP) | 💻 Foco em Back-End  
 📍 São Paulo - SP | 🔍 Buscando oportunidade como **Estagiário ou Desenvolvedor Júnior**
 
 ---
@@ -29,38 +29,64 @@ Estou em fase de transição para a área de tecnologia: estudando, errando, aju
 
 ### 📂 Projetos em Destaque
 
-| Projeto                                                              | Preview                                                                               | Descrição                                                               |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 🌐 [Meu Site](https://github.com/ewtfiwl/meu-site/)                  | <img src="img/Print-meu-site.png" width="250" style="border-radius:10px;" />          | Site pessoal responsivo com HTML/CSS, layout moderno e animações suaves |
-| 📚 [HTML/CSS/JS Notes](https://github.com/ewtfiwl/html-css-js-notes) | <img src="img/Print-html-css-js-notes.png" width="250" style="border-radius:10px;" /> | Anotações completas de Front-End, exercícios e mini projetos            |
-| 🎨 [Projetos Visuais](#)                                             | <img src="img/Position2.png" width="250" style="border-radius:10px;" />               | Experimentos com cores, layouts e responsividade                        |
+<p align="center">
+  <a href="https://github.com/ewtfiwl/meu-site/">
+    <img src="img/Print-meu-site.png" width="280" style="border-radius:10px;" />
+  </a>
+</p>
+<p align="center">
+  <strong>🌐 Meu Site</strong> — Site pessoal responsivo com HTML/CSS, layout moderno e animações suaves
+</p>
 
-> Clique nas imagens ou nos nomes para acessar os repositórios.
+<p align="center">
+  <a href="https://github.com/ewtfiwl/html-css-js-notes">
+    <img src="img/Print-html-css-js-notes.png" width="280" style="border-radius:10px;" />
+  </a>
+</p>
+<p align="center">
+  <strong>📚 HTML/CSS/JS Notes</strong> — Anotações completas de Front-End, exercícios e mini projetos
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="img/Position2.png" width="280" style="border-radius:10px;" />
+  </a>
+</p>
+<p align="center">
+  <strong>🎨 Projetos Visuais</strong> — Experimentos com cores, layouts e responsividade
+</p>
 
 ---
 
 ### 💡 Skills em prática
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-90%25-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-50%25-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQL-40%25-red?style=for-the-badge" />
+</p>
 
 - **Front-End:** HTML, CSS, JavaScript, Flexbox, Grid, Responsividade
 - **Back-End & DB:** Python, SQL (MySQL/PostgreSQL)
 - **Controle de versão:** Git & GitHub
 - **Conceitos:** Lógica de programação, POO, estruturas de dados
 
-#### 🚀 Níveis de habilidade
-
-**HTML**: ▓▓▓▓▓▓▓▓▓ 90%  
-**CSS**: ▓▓▓▓▓▓▓▓ 80%  
-**JavaScript**: ▓▓▓▓▓▓▓ 70%  
-**Python**: ▓▓▓▓▓ 50%  
-**SQL**: ▓▓▓▓ 40%
-
 ---
 
 ### 🌐 Contato & Networking
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-lemos/)  
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzo.lemos05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ewtfiwl)
+<p align="center">
+  <a href="https://www.linkedin.com/in/enzo-lemos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ewtfiwl">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br>
+  📫 <strong>Email:</strong> enzo.lemos05@gmail.com
+</p>
 
 ---
 
