@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Responsividade-80%25-ffa500?style=for-the-badge" />
 </p>
 
-Front-End Developer em formação • Focado em UX, Acessibilidade e Código limpo
+Formado em Análise e Desenvolvimento de Sistemas (UNIP) • Foco em Front-End • São Paulo - SP • Buscando oportunidade como **Estagiário ou Desenvolvedor Júnior**
 
 ---
 
