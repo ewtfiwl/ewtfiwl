@@ -37,7 +37,7 @@ Aprendo testando, errando e refinando projetos todos os dias.
 </p>
 
   <a href="https://ewtfiwl.github.io/Bikcraft/">
-    <img src="img/Bikcraft-preview.png" alt="Bikcraft" width="220" style="border-radius:10px;" />
+    <img src="img/preview-bikcraft.png" alt="Bikcraft" width="220" style="border-radius:10px;" />
   </a>
   <br>
   🚴 Bikcraft — Landing page de loja de bicicletas artesanais, HTML/CSS com Grid layout.
