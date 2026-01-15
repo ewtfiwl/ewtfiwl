@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Enzo Lemos
 
-[![HTML5](https://img.shields.io/badge/HTML-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[![CSS3](https://img.shields.io/badge/CSS-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[![JavaScript]https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[![HTML5](https://img.shields.io/badge/HTML-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)(https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)(https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)(https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Flexbox](https://img.shields.io/badge/Flexbox-80%25-1e90ff?style=for-the-badge)
 [![Grid](https://img.shields.io/badge/Grid-70%25-8a2be2?style=for-the-badge)
 [![Responsividade](https://img.shields.io/badge/Responsividade-80%25-ffa500?style=for-the-badge)
