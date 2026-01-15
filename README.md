@@ -24,19 +24,19 @@ Aprendo construindo projetos reais, testando, errando e refinando detalhes todos
 
 ## ⏭️ Projetos em destaque
 
-<p align="center">
-  <b>🧑🏻‍💻 Site Pessoal</b> — Portfólio moderno, responsivo, com animações suaves e HTML semântico.  
-  🔗 [Repo](https://github.com/ewtfiwl/meu-site/) | 🌍 [Demo](https://ewtfiwl.github.io/meu-site/)
+<b>🧑🏻‍💻 Site Pessoal</b> — Portfólio moderno, responsivo, com animações suaves e HTML semântico.  
+ 🔗 [Repo](https://github.com/ewtfiwl/meu-site/) | 🌍 [Demo](https://ewtfiwl.github.io/meu-site/)
+
 </p>
 
-<p align="center">
-  <b>🚴🏻 Bikcraft</b> — Landing page de loja de bicicletas artesanais, com HTML/CSS e Grid layout.   
-  🔗 [Repo](https://github.com/ewtfiwl/Bikcraft) | 🌍 [Demo](https://ewtfiwl.github.io/Bikcraft/)
+<b>🚴🏻 Bikcraft</b> — Landing page de loja de bicicletas artesanais, com HTML/CSS e Grid layout.  
+ 🔗 [Repo](https://github.com/ewtfiwl/Bikcraft) | 🌍 [Demo](https://ewtfiwl.github.io/Bikcraft/)
+
 </p>
 
-<p align="center">
-  <b>📓 HTML/CSS/JS Notes</b> — Anotações completas de Front-End, exercícios e mini projetos.  
-  🔗 [Repo](https://github.com/ewtfiwl/html-css-js-notes)
+<b>📓 HTML/CSS/JS Notes</b> — Anotações completas de Front-End, exercícios e mini projetos.  
+ 🔗 [Repo](https://github.com/ewtfiwl/html-css-js-notes)
+
 </p>
 
 ---
