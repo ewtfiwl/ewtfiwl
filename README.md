@@ -1,15 +1,13 @@
 # 👋 Olá, eu sou o Enzo Lemos
 
-Front-End Developer em formação • Focado em UX, Acessibilidade e Código limpo
+<img src="https://img.shields.io/badge/HTML-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Flexbox-80%25-1e90ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Grid-70%25-8a2be2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Responsividade-80%25-ffa500?style=for-the-badge" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flexbox-80%25-1e90ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Grid-70%25-8a2be2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Responsividade-80%25-ffa500?style=for-the-badge" />
-</p>
+Front-End Developer em formação • Focado em UX, Acessibilidade e Código limpo
 
 ---
 
