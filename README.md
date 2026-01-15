@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Enzo Lemos
 
-Front-End Developer em formação • Focado em **interfaces acessíveis, responsivas e bem estruturadas**  
-📍 São Paulo - SP | 💻 Aberto a oportunidades como **Estagiário ou Desenvolvedor Júnior**
+Front-End Developer em formação • Focado em UX, Acessibilidade e Código limpo
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -14,7 +13,7 @@ Front-End Developer em formação • Focado em **interfaces acessíveis, respon
 
 ---
 
-## 🚀 Sobre mim
+## 🙇🏻‍♂️ Sobre mim
 
 Sou curioso, comunicativo e adoro **resolver problemas criando soluções visuais**.  
 Aprendo construindo projetos reais, testando, errando e refinando detalhes todos os dias.
@@ -23,26 +22,26 @@ Aprendo construindo projetos reais, testando, errando e refinando detalhes todos
 
 ---
 
-## 🌟 Projetos em destaque
+## ⏭️ Projetos em destaque
 
 <p align="center">
-  <b>🌐 Site Pessoal</b> — Portfólio moderno, responsivo, com animações suaves e HTML semântico.  
+  <b>🧑🏻‍💻 Site Pessoal</b> — Portfólio moderno, responsivo, com animações suaves e HTML semântico.  
   🔗 [Repo](https://github.com/ewtfiwl/meu-site/) | 🌍 [Demo](https://ewtfiwl.github.io/meu-site/)
 </p>
 
 <p align="center">
-  <b>🚲 Bikcraft</b> — Landing page institucional de loja de bicicletas artesanais. HTML/CSS com layout em Grid, totalmente responsivo.  
+  <b>🚴🏻 Bikcraft</b> — Landing page institucional de loja de bicicletas artesanais. HTML/CSS com layout em Grid, totalmente responsivo.  
   🔗 [Repo](https://github.com/ewtfiwl/Bikcraft) | 🌍 [Demo](https://ewtfiwl.github.io/Bikcraft/)
 </p>
 
 <p align="center">
-  <b>📋 HTML/CSS/JS Notes</b> — Anotações completas de Front-End, exercícios e mini projetos.  
+  <b>📓 HTML/CSS/JS Notes</b> — Anotações completas de Front-End, exercícios e mini projetos.  
   🔗 [Repo](https://github.com/ewtfiwl/html-css-js-notes)
 </p>
 
 ---
 
-## 🛠️ Skills
+## ♟️ Skills
 
 - **Front-End:** HTML, CSS, JavaScript
 - **Layout & Responsividade:** Flexbox, Grid, Media Queries
