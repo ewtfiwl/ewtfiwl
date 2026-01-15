@@ -1,13 +1,11 @@
 # 👋 Olá, eu sou o Enzo Lemos
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flexbox-80%25-1e90ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Grid-70%25-8a2be2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Responsividade-80%25-ffa500?style=for-the-badge" />
-</p>
+[![HTML5](https://img.shields.io/badge/HTML-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![CSS3](https://img.shields.io/badge/CSS-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+[![JavaScript]https://img.shields.io/badge/JavaScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[![Flexbox](https://img.shields.io/badge/Flexbox-80%25-1e90ff?style=for-the-badge)
+[![Grid](https://img.shields.io/badge/Grid-70%25-8a2be2?style=for-the-badge)
+[![Responsividade](https://img.shields.io/badge/Responsividade-80%25-ffa500?style=for-the-badge)
 
 Formado em Análise e Desenvolvimento de Sistemas (UNIP) • Foco em Front-End • São Paulo - SP • Buscando oportunidade como **Estagiário ou Desenvolvedor Júnior**
 
