@@ -36,7 +36,6 @@ Aprendo testando, errando e refinando projetos todos os dias.
   🔗 <a href="https://github.com/ewtfiwl/meu-site/">Repo</a> | 🌍 <a href="https://ewtfiwl.github.io/meu-site/">Demo</a>
 </p>
 
-<p align="center">
   <a href="https://ewtfiwl.github.io/Bikcraft/">
     <img src="img/preview-bikcraft.png" alt="Bikcraft" width="220" style="border-radius:10px;" />
   </a>
@@ -46,7 +45,6 @@ Aprendo testando, errando e refinando projetos todos os dias.
   🔗 <a href="https://github.com/ewtfiwl/Bikcraft">Repo</a> | 🌍 <a href="https://ewtfiwl.github.io/Bikcraft/">Demo</a>
 </p>
 
-<p align="center">
   <a href="https://github.com/ewtfiwl/html-css-js-notes">
     <img src="img/preview-html-css-js-notes.png" alt="HTML/CSS/JS Notes" width="220" style="border-radius:10px;" />
   </a>
