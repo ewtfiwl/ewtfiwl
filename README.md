@@ -33,20 +33,14 @@ Aprendo construindo projetos reais, testando, errando e refinando detalhes todos
 
 ## ⏭️ Projetos em destaque
 
-<b>🧑🏻‍💻 Site Pessoal</b> — Portfólio moderno, responsivo, com animações suaves e HTML semântico.  
- 🔗 [Repo](https://github.com/ewtfiwl/meu-site/) | 🌍 [Demo](https://ewtfiwl.github.io/meu-site/)
+Site Pessoal — Portfólio moderno, responsivo, com animações suaves e HTML semântico.  
+[Repo](https://github.com/ewtfiwl/meu-site/) | [Demo](https://ewtfiwl.github.io/meu-site/)
 
-</p>
+Bikcraft — Landing page de loja de bicicletas artesanais, com HTML/CSS e Grid layout.  
+[Repo](https://github.com/ewtfiwl/Bikcraft) | [Demo](https://ewtfiwl.github.io/Bikcraft/)
 
-<b>🚴🏻 Bikcraft</b> — Landing page de loja de bicicletas artesanais, com HTML/CSS e Grid layout.  
- 🔗 [Repo](https://github.com/ewtfiwl/Bikcraft) | 🌍 [Demo](https://ewtfiwl.github.io/Bikcraft/)
-
-</p>
-
-<b>📓 HTML/CSS/JS Notes</b> — Anotações completas de Front-End, exercícios e mini projetos.  
- 🔗 [Repo](https://github.com/ewtfiwl/html-css-js-notes)
-
-</p>
+HTML/CSS/JS Notes — Anotações completas de Front-End, exercícios e mini projetos.  
+[Repo](https://github.com/ewtfiwl/html-css-js-notes)
 
 ---
 
