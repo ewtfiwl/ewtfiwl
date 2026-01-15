@@ -27,24 +27,37 @@ Aprendo testando, errando e refinando projetos todos os dias.
 
 ## ⏭️ Projetos em Destaque
 
-### 🌐 Site Pessoal
+## ⏭️ Projetos em Destaque
 
-Portfólio moderno, responsivo, com animações suaves e HTML semântico.  
-🔗 [Repo](https://github.com/ewtfiwl/meu-site/) | 🌍 [Demo](https://ewtfiwl.github.io/meu-site/)
+<p align="center">
+  <a href="https://ewtfiwl.github.io/meu-site/">
+    <img src="img/preview-meu-site.png" alt="Site Pessoal" width="220" style="border-radius:10px;" />
+  </a>
+  <br>
+  🌐 Site Pessoal — Portfólio moderno, responsivo, com animações suaves e HTML semântico.
+  <br>
+  🔗 <a href="https://github.com/ewtfiwl/meu-site/">Repo</a> | 🌍 <a href="https://ewtfiwl.github.io/meu-site/">Demo</a>
+</p>
 
----
+<p align="center">
+  <a href="https://ewtfiwl.github.io/Bikcraft/">
+    <img src="img/preview-bikcraft.png" alt="Bikcraft" width="220" style="border-radius:10px;" />
+  </a>
+  <br>
+  🚴 Bikcraft — Landing page de loja de bicicletas artesanais, HTML/CSS com Grid layout.
+  <br>
+  🔗 <a href="https://github.com/ewtfiwl/Bikcraft">Repo</a> | 🌍 <a href="https://ewtfiwl.github.io/Bikcraft/">Demo</a>
+</p>
 
-### 🚴 Bikcraft
-
-Landing page de loja de bicicletas artesanais, com HTML/CSS e Grid layout.  
-🔗 [Repo](https://github.com/ewtfiwl/Bikcraft) | 🌍 [Demo](https://ewtfiwl.github.io/Bikcraft/)
-
----
-
-### 📓 HTML/CSS/JS Notes
-
-Anotações completas de Front-End, exercícios e mini projetos.  
-🔗 [Repo](https://github.com/ewtfiwl/html-css-js-notes)
+<p align="center">
+  <a href="https://github.com/ewtfiwl/html-css-js-notes">
+    <img src="img/preview-html-css-js-notes.png" alt="HTML/CSS/JS Notes" width="220" style="border-radius:10px;" />
+  </a>
+  <br>
+  📓 HTML/CSS/JS Notes — Anotações completas de Front-End, exercícios e mini projetos.
+  <br>
+  🔗 <a href="https://github.com/ewtfiwl/html-css-js-notes">Repo</a>
+</p>
 
 ---
 
