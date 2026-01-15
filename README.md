@@ -1,32 +1,7 @@
-# 👋 Olá! Eu sou o Enzo Lemos
+# 👋 Olá, eu sou o Enzo Lemos
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas (UNIP) | 💻 Foco em Front-End  
-📍 São Paulo - SP | 🔍 Buscando oportunidade como **Estagiário ou Desenvolvedor Júnior**
-
----
-
-## 👽 Sobre mim
-
-Sou curioso, comunicativo e adoro **resolver problemas e criar soluções visuais**.  
-Estou em fase de transição para a área de tecnologia: estudando, errando, ajustando e evoluindo todo dia.
-
-> “Aprender fazendo” é meu lema: cada projeto é uma chance de evoluir e mostrar resultado.
-
----
-
-## 📝 Projetos em Destaque
-
-| Projeto                                                              | Descrição                                                                       | Preview                                                                                                                                                                |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🌐 [Meu Site](https://github.com/ewtfiwl/meu-site/)                  | Site pessoal responsivo com HTML/CSS/JS, layout moderno e animações suaves      | <p align="center"><a href="https://github.com/ewtfiwl/meu-site/"><img src="img/Print-meu-site.png" width="220" style="border-radius:10px;" /></a></p>                  |
-| 📋 [HTML/CSS/JS Notes](https://github.com/ewtfiwl/html-css-js-notes) | Anotações completas de Front-End, exercícios e mini projetos                    | <p align="center"><a href="https://github.com/ewtfiwl/html-css-js-notes"><img src="img/Print-html-css-js-notes.png" width="220" style="border-radius:10px;" /></a></p> |
-| 🧶 [Bikcraft](https://github.com/ewtfiwl/Bikcraft)                   | Site de uma loja de bicicletas artesanais, feita em HTML/CSS com layout em Grid | <p align="center"><a href="#"><img src="img/Print-projeto-bikcraft.png" width="220" style="border-radius:10px;" /></a></p>                                             |
-
-> Todos os projetos incluem documentação detalhada, exemplos práticos e estudos de boas práticas.
-
----
-
-## 👾 Skills em prática
+Front-End Developer em formação • Focado em **interfaces acessíveis, responsivas e bem estruturadas**  
+📍 São Paulo - SP | 💻 Aberto a oportunidades como **Estagiário ou Desenvolvedor Júnior**
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -37,21 +12,54 @@ Estou em fase de transição para a área de tecnologia: estudando, errando, aju
   <img src="https://img.shields.io/badge/Responsividade-80%25-ffa500?style=for-the-badge" />
 </p>
 
-- **Front-End:** HTML, CSS, JavaScript, Flexbox, Grid, Responsividade
-- **Controle de versão:** Git & GitHub
-- **Conceitos:** Lógica de programação, boas práticas, organização de código
+---
+
+## 🚀 Sobre mim
+
+Sou curioso, comunicativo e adoro **resolver problemas criando soluções visuais**.  
+Aprendo construindo projetos reais, testando, errando e refinando detalhes todos os dias.
+
+> “Aprender fazendo” é meu lema: cada projeto é uma chance de evoluir e mostrar resultado.
 
 ---
 
-## 📩 Contato & Networking
+## 🌟 Projetos em destaque
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzo.lemos05@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-lemos/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ewtfiwl)
+<p align="center">
+  <b>🌐 Site Pessoal</b> — Portfólio moderno, responsivo, com animações suaves e HTML semântico.  
+  🔗 [Repo](https://github.com/ewtfiwl/meu-site/) | 🌍 [Demo](https://ewtfiwl.github.io/meu-site/)
+</p>
+
+<p align="center">
+  <b>🚲 Bikcraft</b> — Landing page institucional de loja de bicicletas artesanais. HTML/CSS com layout em Grid, totalmente responsivo.  
+  🔗 [Repo](https://github.com/ewtfiwl/Bikcraft) | 🌍 [Demo](https://ewtfiwl.github.io/Bikcraft/)
+</p>
+
+<p align="center">
+  <b>📋 HTML/CSS/JS Notes</b> — Anotações completas de Front-End, exercícios e mini projetos.  
+  🔗 [Repo](https://github.com/ewtfiwl/html-css-js-notes)
+</p>
+
+---
+
+## 🛠️ Skills
+
+- **Front-End:** HTML, CSS, JavaScript
+- **Layout & Responsividade:** Flexbox, Grid, Media Queries
+- **Boas práticas:** Semântica, Acessibilidade, Performance
+- **Controle de versão:** Git & GitHub
+
+---
+
+## 📩 Contato
+
+<p align="center">
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzo.lemos05@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-lemos/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ewtfiwl)
+</p>
 
 ---
 
 💬 Sempre aberto para **trocar ideias, colaborar em projetos e aprender**.  
 Vamos construir coisas incríveis juntos! 🚀
-
----
