@@ -27,7 +27,6 @@ Aprendo testando, errando e refinando projetos todos os dias.
 
 ## ⏭️ Projetos em Destaque
 
-<p align="center">
   <a href="https://ewtfiwl.github.io/meu-site/">
     <img src="img/preview-meu-site.png" alt="Site Pessoal" width="220" style="border-radius:10px;" />
   </a>
