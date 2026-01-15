@@ -30,7 +30,7 @@ Aprendo construindo projetos reais, testando, errando e refinando detalhes todos
 </p>
 
 <p align="center">
-  <b>🚴🏻 Bikcraft</b> — Landing page institucional de loja de bicicletas artesanais. HTML/CSS com layout em Grid, totalmente responsivo.  
+  <b>🚴🏻 Bikcraft</b> — Landing page de loja de bicicletas artesanais, com HTML/CSS e Grid  
   🔗 [Repo](https://github.com/ewtfiwl/Bikcraft) | 🌍 [Demo](https://ewtfiwl.github.io/Bikcraft/)
 </p>
 
