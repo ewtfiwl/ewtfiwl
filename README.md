@@ -22,6 +22,15 @@ Aprendo construindo projetos reais, testando, errando e refinando detalhes todos
 
 ---
 
+## ♟️ Skills
+
+- **Front-End:** HTML, CSS, JavaScript
+- **Layout & Responsividade:** Flexbox, Grid, Media Queries
+- **Boas práticas:** Semântica, Acessibilidade, Performance
+- **Controle de versão:** Git & GitHub
+
+---
+
 ## ⏭️ Projetos em destaque
 
 <b>🧑🏻‍💻 Site Pessoal</b> — Portfólio moderno, responsivo, com animações suaves e HTML semântico.  
@@ -38,15 +47,6 @@ Aprendo construindo projetos reais, testando, errando e refinando detalhes todos
  🔗 [Repo](https://github.com/ewtfiwl/html-css-js-notes)
 
 </p>
-
----
-
-## ♟️ Skills
-
-- **Front-End:** HTML, CSS, JavaScript
-- **Layout & Responsividade:** Flexbox, Grid, Media Queries
-- **Boas práticas:** Semântica, Acessibilidade, Performance
-- **Controle de versão:** Git & GitHub
 
 ---
 
